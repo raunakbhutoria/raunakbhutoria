@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**raunakbhutoria/raunakbhutoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Raunak Bhutoria and welcome to my GitHub profile. I am from Mumbai, India and am currently an undergraduate student at the University of British Columbia, Vancouver pursuing my Bachelor's degree in Chemical Engineering with a Minor in Commerce. I am a data science enthusiast and have completed numerous specializations on data science and machine learning from Coursera. Here are some more deatils about me:
 
 - 🌱 I am currently enhancing my data science and machine learning skills.
